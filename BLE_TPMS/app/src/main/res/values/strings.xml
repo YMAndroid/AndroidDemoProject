@@ -1,0 +1,132 @@
+<resources>
+    <string name="app_name">TPMS</string>
+    <string name="open_bluetooth">open bluetooth</string>
+    <string name="home_page">home</string>
+    <string name="bind_new_devices">bind new device</string>
+    <!--<string name="car_manager">car manager</string>-->
+    <string name="system_settings">system settings</string>
+    <string name="upgrade_device">update device</string>
+    <string name="help">help</string>
+    <string name="exit">exit</string>
+    <string name="open_bluetooth_request">TPMS request open bluetooth</string>
+    <string name="title">title</string>
+    <string name="car">car</string>
+    <string name="manual_match">manual match</string>
+    <string name="auto_match">automatic matching</string>
+    <string name="scan_qr_code">scan QR code</string>
+    <string name="pressure_unit">pressure unit</string>
+    <string name="bar">bar</string>
+    <string name="psi">psi</string>
+    <string name="kpa">kPa</string>
+    <string name = "celsius">℃</string>
+    <string name = "fahrenheit">℉</string>
+    <string name="trip_warning_limit">pressure warning limit</string>
+    <string name="trip_lower_warning_limit">lower pressure warning</string>
+    <string name="bind_sendor">binding sensor</string>
+    <string name="please_add_car">add vehicle</string>
+    <string name="add_car">add vehicle</string>
+    <string name="car_manager">vehicle management</string>
+    <string name="start_scan">scan new TPM sensor</string>
+    <string name="stop_scan">stop scan</string>
+    <string name="connect_fail">connection failed</string>
+    <string name="connection">learn</string>
+    <string name="active_disconnected">disconnected</string>
+    <string name="connected">ID learnt</string>
+    <string name="disconnected">clear ID</string>
+    <string name="update_status_no_update">no update</string>
+    <string name="update_status_update_3049">update 3049</string>
+    <string name="update_status_update_3011">update_3011</string>
+    <string name="update">update</string>
+    <string name = "left_front_temp_limit">temperature HIGH at LEFT FRONT ！</string>
+    <string name = "right_front_temp_limit">temperature HIGH at RIGHT FRONT </string>
+    <string name = "left_rear_temp_limit">temperature HIGH at LEFT REAR </string>
+    <string name = "right_rear_temp_limit">temperature HIGH at RIGHT REAR </string>
+
+    <string name="left_front_press_hight">pressure HIGH at LEFT FRONT ！</string>
+    <string name="left_front_press_low">pressure LOW at LEFT FRONT ！</string>
+
+    <string name="right_front_press_hight">pressure HIGH at RIGHT FRONT ！</string>
+    <string name="right_front_press_low">pressure LOW at RIGHT FRONT ！</string>
+
+    <string name="left_rear_press_hight">pressure HIGH at LEFT REAR ！</string>
+    <string name="left_rear_press_low">pressure LOW at LEFT REAR ！</string>
+
+    <string name="right_rear_press_hight">pressure HIGH at RIGHT REAR ！</string>
+    <string name="right_rear_press_low">pressure LOW at RIGHT REAR ！</string>
+    
+    <string name="location_switch_no_open">location switch is not open!</string>
+    <string name="location_permission_no_open">location permission is not open!</string>
+    <string name="please_choise_bind_device">bind a device</string>
+    <string name="connect_device">Connecting BLE device, please wait...</string>
+
+    <string name="prompt">prompt</string>
+    <string name="delete">confirm to delete</string>
+    <string name="car_infomation">vehicle information?</string>
+    
+    <string name="compactcar">car</string>
+    <string name="tricycle">tricycle</string>
+    <string name="motorcycle">motorcycle</string>
+    <string name="bicycle">bicycle</string>
+
+    <string name="choise_car_type">please select vehicle type</string>
+    <!--<string name="vehicle_note_information">please enter the vehicle note information</string>-->
+    <string name="vehicle_note_information"> Enter your vehicle name or vehicle plate</string>
+    <string name="confirm">confirm</string>
+    <string name="cancel">cancel</string>
+
+    <string name="enter">enter</string>
+
+    <string name="vehicle_add_success">vehicle added successfully</string>
+
+    <string name="restore_system_settings">restroe default settings</string>
+    <string name="restroe_success">Restore the default settings successfully!</string>
+
+    <string name="no_data">no data</string>
+
+    <string name="temp_unit">temperature unit</string>
+    <string name="temp_alarm_limit">temperature alarm upper limit</string>
+
+    <string name="year_statistics">year statistics</string>
+    <string name="month_statistics">month statistics</string>
+    <string name="day_statistics">day statistics</string>
+
+    <string name="average_temperature">average_temperature</string>
+    <string name="average_pressure">average_pressure</string>
+    <string name="temperature_number_of_alarms_exceeded">temperature number of alarms exceeded</string>
+    <string name="pressure_number_of_alarms_exceeded">pressure number of alarms exceeded</string>
+
+    <string name="not_upgraded">not upgraded</string>
+    <string name="upgraded_3049">upgraded 3049</string>
+    <string name="upgraded_3011">upgraded 3011</string>
+    <string name="upgraded_3049_and_3011">upgraded_3049_and_3011</string>
+
+    <string name="unbind_device">unbind device</string>
+
+    <string name="request_data_frequency">request data frequency(s): </string>
+
+    <string name="owner_service">For private retrofit kit user</string>
+    <string name="distributor_service">For replacement sensor programming</string>
+
+    <string name="distributor_service_main">Sensor programming</string>
+    <string name="device_list">Device list:</string>
+
+
+
+
+
+
+    <!--<string name = "">"Voice alert is off"</string>-->
+    <!--左前轮压强偏高请注意！ Please note that the pressure on the left front wheel is too high!-->
+    <!--左前轮压强偏低请注意！Please note that the pressure on the left front wheel is low!-->
+
+    <!--右前轮压强偏高请注意! Please note that the pressure on the right front wheel is too high!-->
+    <!--右前轮压强偏低请注意! Please note that the pressure on the right front wheel is too low!-->
+
+
+    <!--左后轮压强偏高请注意! Please note that the pressure on the left rear wheel is too high!-->
+    <!--左后轮压强偏低请注意! Please note that the pressure on the left rear wheel is too low!-->
+
+
+    <!--右后轮压强偏高请注意！ Please note that the pressure on the right rear wheel is too high!-->
+    <!--右后轮压强偏低请注意! Please note that the pressure on the right rear wheel is too low!-->
+</resources>

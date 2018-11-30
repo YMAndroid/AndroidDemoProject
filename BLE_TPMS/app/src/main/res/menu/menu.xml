@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/back_home_page"
+        android:icon="@mipmap/home"
+        android:title="@string/home_page" />
+
+    <item
+        android:id="@+id/car_manager"
+        android:icon="@mipmap/car_manager"
+        android:title="@string/car_manager" />
+
+    <item
+        android:id="@+id/unbind_device"
+        android:icon="@mipmap/ic_unbind_device"
+        android:title="@string/unbind_device" />
+
+
+    <item
+        android:id="@+id/upgrade_device"
+        android:icon="@mipmap/upgrade"
+        android:title="@string/upgrade_device" />
+
+    <item
+        android:id="@+id/syetem_settings"
+        android:icon="@mipmap/system_settings"
+        android:title="@string/system_settings" />
+
+    <!--<item-->
+        <!--android:id="@+id/help"-->
+        <!--android:icon="@mipmap/help"-->
+        <!--android:title="@string/help" />-->
+
+    <item
+        android:id="@+id/exit"
+        android:icon="@mipmap/exit"
+        android:title="@string/exit" />
+</menu>
